@@ -1,15 +1,14 @@
-# Flexy Dev - Next.js Portfolio Template
+# Xitiz - Next.js Portfolio Template
 
 ![](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[![Premium Version](https://img.shields.io/badge/PREMIUM_%20VERSION-AVAILABLE-%2300C7B7?style=for-the-badge&logo=stellar&logoColor=white)](https://basit313.gumroad.com/l/nextjs-developer-portfolio-template)
+[Premium Version]
 
 ✨ **Professional Portfolio Template** built with Next.js 15 • 🚀 Tailwind V4 • 📱 Fully Responsive • 🎨 Modern Design • 🔍 SEO Friendly
 
-![Next.js Portfolio Template Hero Section](https://ik.imagekit.io/cpnw7c0xpe/Tailwind%20Components/Templates/Flexy%20Dev%20Cover%20New.png?updatedAt=1741812978958)
-
+![Next.js Portfolio Template Hero Section]
 ## 🚀 How to Run the Project
 
 Follow these steps to set up and run the project locally:
@@ -50,7 +49,7 @@ This ensures proper configuration of environment variables.
 
 ## Folder Structure Overview
 
-![Next.js portfolio template folder structure overview](https://ik.imagekit.io/cpnw7c0xpe/Tailwind%20Components/Templates/Folder%20Structure%20Overview.png?updatedAt=1741684501824)
+![Next.js portfolio template folder structure overview]
 
 - **content:** Contains data for projects. Add any additional section data here.
 - **Components:** All the UI components of app e.g. navbar, hero, projects, footer etc
@@ -87,7 +86,7 @@ This ensures proper configuration of environment variables.
 
 In the same manner, you can also update the Contact and Testimonial sections. The code is self-explanatory.
 
-![Project section](https://ik.imagekit.io/cpnw7c0xpe/Tailwind%20Components/Templates/flexy-dev-portfolio-portfolio.png?updatedAt=1739182152345)
+[Project section]
 
 ## 📨 Configuring the Contact Section
 
@@ -128,7 +127,6 @@ We use Tailwind CSS for styling. In `global.css`, you can customize theme variab
 
 ### If you find this template helpful, don't forget to ⭐️ the repo!
 
-## 💎 Upgrade to Premium
 
 ✨ **Premium Features Include:**
 
@@ -136,17 +134,6 @@ In premium template you will get one extra feature
 
 - 📝 MDX Blog System with code snippets
 
-[Get Premium Version](https://basit313.gumroad.com/l/nextjs-developer-portfolio-template) | [View Premium Demo](https://nextjs-dev-portfolio.netlify.app/)
-
-## 🆓 vs 💎 Premium
-
-| **Feature**       | **Free Version** | **Premium Version** |
-| ----------------- | ---------------- | ------------------- |
-| Blog System (MDX) | ❌               | ✅ Full Integration |
-| UI Components     | 20               | 25+                 |
-| Email Support     | ✅               | ✅ Priority         |
-
-![footer section](https://ik.imagekit.io/cpnw7c0xpe/Tailwind%20Components/Templates/flexy-dev-footer.png?updatedAt=1741813601842)
 
 ## Analytics
 
@@ -163,4 +150,4 @@ Before deploying, add environment variables from .env.local wherever you are dep
 1. CONTACT_FORM_ACTION_URL: Your [formspree](https://formspree.io/) url.
 1. For local development, use the localhost URL.
 
-For any query or suggestion, I am available on [LinkedIn](https://www.linkedin.com/in/abdulbasitprofile/) or email me at basit@codevertiser.com
+For any query or suggestion, I am available on [LinkedIn](https://www.linkedin.com/in/kshitiz-khanal-5809371a0/) or email me at kkhanal01@gmail.com
