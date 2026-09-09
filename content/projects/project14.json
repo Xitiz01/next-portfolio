@@ -1,0 +1,9 @@
+ {
+    "priority": 14,
+    "title": "Next Portfolio",
+    "shortDescription": "Personal portfolio built using Next.js framework.",
+    "cover": "/images/projects/next-portfolio.webp",
+    "livePreview": "https://xitizkhanal.netlify.app/",
+    "type": "Next.js Site",
+    "siteAge": "1 month old"
+  }

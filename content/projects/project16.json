@@ -1,0 +1,10 @@
+{
+    "priority": 16,
+    "title": "Portfolio",
+    "shortDescription": "Custom web portfolio design.",
+    "cover": "/images/projects/portfolio.webp",
+    "livePreview": "https://github.com/Xitiz01/portfolio-theme",
+    "type": "Wordpress Site",
+    "siteAge": "Portfolio Template",
+    "visitors": "Github Repository"
+  }
