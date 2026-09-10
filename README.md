@@ -4,11 +4,10 @@
 
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[Premium Version]
 
 ✨ **Professional Portfolio Template** built with Next.js 15 • 🚀 Tailwind V4 • 📱 Fully Responsive • 🎨 Modern Design • 🔍 SEO Friendly
 
-![Next.js Portfolio Template Hero Section]
+![Next.js Portfolio Template Hero Section](./public/github/fullpage.png)
 ## 🚀 How to Run the Project
 
 Follow these steps to set up and run the project locally:
@@ -49,7 +48,7 @@ This ensures proper configuration of environment variables.
 
 ## Folder Structure Overview
 
-![Next.js portfolio template folder structure overview]
+![Next.js portfolio template folder structure overview](./public/github/projectstructure.png)
 
 - **content:** Contains data for projects. Add any additional section data here.
 - **Components:** All the UI components of app e.g. navbar, hero, projects, footer etc
