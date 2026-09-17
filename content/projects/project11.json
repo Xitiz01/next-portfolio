@@ -1,11 +1,13 @@
- {
+
+
+  {
     "priority": 11,
-    "title": "Everest Clinic",
-    "shortDescription": "Healthcare service and medical appointment site.",
-    "cover": "/images/projects/everest-clinic.webp",
-    "livePreview": "https://everesteclinic.com/",
+    "title": "ESN",
+    "shortDescription": "Electrical Services Nepal.",
+    "cover": "/images/projects/esn.webp",
+    "livePreview": "https://electricalservicesnepal.com/",
     "type": "WordPress Site",
-    "siteAge": "1 month old",
-    "visitors": "E-Clinic",
-    "earned": "3k Unique Visitors"
+    "siteAge": "Portfolio Business",
+    "visitors": "1K Visitors",
+    "earned": "100+ Unique clients"
   }

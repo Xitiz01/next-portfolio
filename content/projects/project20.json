@@ -1,0 +1,9 @@
+  {
+    "priority": 20,
+    "title": "Headless E-commerce",
+    "shortDescription": "A Headless E-commerce Build with nextjs, REST API and Graphql",
+    "cover": "/images/projects/headless.webp",
+    "livePreview": "#",
+    "type": "Headless WordPress",
+    "siteAge": "Woocommerce, Nextjs, Rest API and Graphql"
+  }

@@ -1,10 +1,13 @@
- {
+
+
+  {
     "priority": 7,
-    "title": "Skyline Construction",
-    "shortDescription": "Construction company portfolio showcase.",
-    "cover": "/images/projects/construction.webp",
-    "livePreview": "https://wordpress.org/themes/skyline-construction/",
-    "type": "WordPress.org  approved theme",
-    "visitors": "Wordpress.org",
-    "earned": "20+ Active installations"
+    "title": "Club Denovo",
+    "shortDescription": "Hospitality and club management site.",
+    "cover": "/images/projects/club-denovo.webp",
+    "livePreview": "https://clubdenovo.com.np/",
+    "type": "WordPress Site",
+    "siteAge": "1 month old",
+    "visitors": "1K Visitors",
+    "earned": "100+ Unique Visitors"
   }

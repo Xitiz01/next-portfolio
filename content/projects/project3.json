@@ -1,10 +1,12 @@
-{
+
+  {
     "priority": 3,
-    "title": "Axiom",
-    "shortDescription": "Axiom corporate website and web solutions.",
-    "cover": "/images/projects/axiom.webp",
-    "livePreview": "https://axiomnepal.com/",
+    "title": "Biryani Bistro",
+    "shortDescription": "Restaurant management and menu display platform.",
+    "cover": "/images/projects/biryani-bistro.webp",
+    "livePreview": "https://biryanibistro.com.np/",
     "type": "WordPress Site",
-    "siteAge": "2 month old",
-    "visitors": "5K Visitors"
+    "siteAge": "1 month old",
+    "visitors": "1K Visitors",
+    "earned": "Digital Menu Display"
   }

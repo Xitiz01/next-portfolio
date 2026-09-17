@@ -1,11 +1,12 @@
-{
+
+  {
     "priority": 4,
-    "title": "Biryani Bistro",
-    "shortDescription": "Restaurant management and menu display platform.",
-    "cover": "/images/projects/biryani-bistro.webp",
-    "livePreview": "https://biryanibistro.com.np/",
+    "title": "DFW",
+    "shortDescription": "DFW Ecommerce platform for racks.",
+    "cover": "/images/projects/dfw.webp",
+    "livePreview": "https://dfwfixture.com/",
     "type": "WordPress Site",
-    "siteAge": "1 month old",
-    "visitors": "1K Visitors",
-    "earned": "Digital Menu Display"
+    "siteAge": "Ecommerce Business",
+    "visitors": "Products Showcase",
+    "earned": "3k Unique Visitors"
   }

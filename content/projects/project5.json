@@ -1,10 +1,12 @@
-{
+
+
+  {
     "priority": 5,
-    "title": "Budget Hotel",
-    "shortDescription": "Hotel booking and accommodation platform.",
-    "cover": "/images/projects/budget-hotel.webp",
-    "livePreview": "https://wordpress.org/themes/budget-hotel/",
-    "type": "WordPress.org  approved theme",
-    "visitors": "Wordpress.org",
-    "earned": "100+ Active installations"
+    "title": "Ezeekart Nepal",
+    "shortDescription": "E-commerce platform .",
+    "cover": "/images/projects/ezeekart-nepal.webp",
+    "livePreview": "https://ezeekartnepal.com/",
+    "type": "WordPress Site",
+    "siteAge": "E-commerce",
+    "technologies": ["WooCommerce", "WordPress", "PHP"]
   }

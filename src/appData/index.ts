@@ -59,6 +59,17 @@ export const projects = [
   },
   {
     priority: 5,
+    title: 'Ezeekart Nepal',
+    shortDescription: 'E-commerce platform.',
+    cover: '/images/projects/ezeekart-nepal.webp',
+    livePreview: 'https://ezeekartnepal.com/',
+    type: 'WordPress Site',
+    siteAge: 'E-commerce',
+    visitors: 'Products Showcase',
+    earned: '3k Unique Visitors'
+  },
+  {
+    priority: 6,
     title: 'LNB Consulting',
     shortDescription:
     'LNB Consulting is a team of dedicated and result-driven financial professionals committed to empowering individuals and businesses across Nepal.',
@@ -67,7 +78,7 @@ export const projects = [
     visitors: '8K Visitors'
   },
   {
-    priority: 6,
+    priority: 7,
     title: 'Club Denovo',
     shortDescription: 'Hospitality and club management site.',
     cover: '/images/projects/club-denovo.webp',
@@ -78,7 +89,7 @@ export const projects = [
     earned: '100+ Unique Visitors'
   },
   {
-    priority: 7,
+    priority: 8,
     title: 'Skyline Construction',
     shortDescription: 'Construction company portfolio showcase.',
     cover: '/images/projects/construction.webp',
@@ -88,7 +99,7 @@ export const projects = [
     earned: '20+ Active installations'
   },
   {
-    priority: 8,
+    priority: 9,
     title: 'Dalaila',
     shortDescription: 'Brand web experience and agency layout.',
     cover: '/images/projects/dalaila.webp',
@@ -99,7 +110,7 @@ export const projects = [
     earned: '100+ Bookings'
   },
   {
-    priority: 9,
+    priority: 10,
     title: 'Axiom Nepal',
     shortDescription: 'Axiom corporate website and web solutions.',
     cover: '/images/projects/axiom.webp',
@@ -109,7 +120,7 @@ export const projects = [
     visitors: '5K Visitors'
   },
   {
-    priority: 10,
+    priority: 11,
     title: 'ESN',
     shortDescription: 'Electrical Services Nepal.',
     cover: '/images/projects/esn.webp',
@@ -120,7 +131,7 @@ export const projects = [
     earned: '100+ Unique clients'
   },
   {
-    priority: 11,
+    priority: 12,
     title: 'Everest Clinic',
     shortDescription: 'Healthcare service and medical appointment site.',
     cover: '/images/projects/everest-clinic.webp',
@@ -131,7 +142,7 @@ export const projects = [
     earned: '3k Unique Visitors'
   },
   {
-    priority: 12,
+    priority: 13,
     title: 'Foreign Business',
     shortDescription: 'Consultancy and foreign studies guidance portal.',
     cover: '/images/projects/foreignb.webp',
@@ -142,7 +153,7 @@ export const projects = [
     earned: '100+ Unique Visitors'
   },
   {
-    priority: 13,
+    priority: 14,
     title: 'Healthy World',
     shortDescription: 'Health, wellness, and lifestyle content site.',
     cover: '/images/projects/healthy-world.webp',
@@ -152,7 +163,7 @@ export const projects = [
     
   },
   {
-    priority: 14,
+    priority: 15,
     title: 'Next Portfolio',
     shortDescription: 'Personal portfolio built using Next.js framework.',
     cover: '/images/projects/next-portfolio.webp',
@@ -161,7 +172,7 @@ export const projects = [
     siteAge: '1 month old'
   },
   {
-    priority: 15,
+    priority: 16,
     title: 'One Step',
     shortDescription: 'Educational and training institute portal.',
     cover: '/images/projects/one-step.webp',
@@ -172,7 +183,7 @@ export const projects = [
     earned: '100+ Unique Visitors'
   },
   {
-    priority: 16,
+    priority: 17,
     title: 'Portfolio',
     shortDescription: 'Custom web portfolio design.',
     cover: '/images/projects/portfolio.webp',
@@ -180,7 +191,7 @@ export const projects = [
     type: 'GitHub Repository'
   },
   {
-    priority: 17,
+    priority: 18,
     title: 'Radiant Migration',
     shortDescription: 'Business corporate Consultancy.',
     cover: '/images/projects/radiant.webp',
@@ -191,7 +202,7 @@ export const projects = [
     earned: '100+ Unique Visitors'
   },
   {
-    priority: 18,
+    priority: 19,
     title: 'Tidal Law',
     shortDescription: 'Legal firm professional web presence.',
     cover: '/images/projects/tidal-law.webp',
@@ -199,6 +210,15 @@ export const projects = [
     type: 'WordPress Site',
     siteAge: 'Law Firm'
   },
+  {
+    priority: 20,
+    title: 'Headless E-commerce',
+    shortDescription: 'A Headless E-commerce Build with nextjs, REST API and Graphql.',
+    cover: '/images/projects/headless.webp',
+    livePreview: '#',
+    type: 'Github Repo',
+    siteAge: 'Woocommerce, Nextjs, Rest API and Graphql'
+  }
 ]
 
 // Service Data

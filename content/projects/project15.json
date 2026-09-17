@@ -1,11 +1,9 @@
- {
+{
     "priority": 15,
-    "title": "One Step",
-    "shortDescription": "Educational and training institute portal.",
-    "cover": "/images/projects/one-step.webp",
-    "livePreview": "https://onestepfoundation.org/",
-    "type": "WordPress Site",
-    "siteAge": "Non-profit Organization",
-    "visitors": "2k+ Visitors",
-    "earned": "100+ Unique Visitors"
+    "title": "Next Portfolio",
+    "shortDescription": "Personal portfolio built using Next.js framework.",
+    "cover": "/images/projects/next-portfolio.webp",
+    "livePreview": "https://xitizkhanal.netlify.app/",
+    "type": "Next.js Site",
+    "siteAge": "1 month old"
   }
