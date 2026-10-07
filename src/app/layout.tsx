@@ -13,20 +13,21 @@ const title = 'Kshitiz Khanal | Full-Stack Web Developer in Kathmandu, Nepal | R
 const description =
   "Skilled full-stack web developer in Kathmandu, Nepal. I build responsive, user-friendly websites with WordPress, React, NextJS, and NodeJS. Let's bring your vision to life. Hire me today!"
 
-const url = process.env.NEXT_PUBLIC_SITE_URL
+// Fallback to localhost in local development if environment variable is missing
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'
 
 export const metadata: Metadata = {
   title,
   description,
   category: 'technology',
-  metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL!),
+  metadataBase: new URL(siteUrl),
   alternates: {
-    canonical: url,
+    canonical: siteUrl,
   },
   openGraph: {
     title,
     description,
-    url,
+    url: siteUrl,
     siteName: 'Kshitiz Khanal Portfolio',
     type: 'website',
   },

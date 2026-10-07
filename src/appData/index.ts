@@ -215,7 +215,7 @@ export const projects = [
     title: 'Headless E-commerce',
     shortDescription: 'A Headless E-commerce Build with nextjs, REST API and Graphql.',
     cover: '/images/projects/headless.webp',
-    livePreview: '#',
+    livePreview: 'https://ecomheadless.netlify.app/',
     type: 'Github Repo',
     siteAge: 'Woocommerce, Nextjs, Rest API and Graphql'
   }
